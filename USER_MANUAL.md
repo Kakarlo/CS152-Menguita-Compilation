@@ -1,4 +1,4 @@
-![Subscribr Logo](/Part%201/Subscribr_Logo.png)
+![Subscribr Logo](/Part%201/Subscribr_logo.png)
 # Introduction
  **Subscribr** is an application with the goal to reduce cognitive load and financial waste for customers by streamlining subscription management through the provision of a unified platform for tracking and administering many digital services. A seamless user experience is intended to be provided via the app's capabilities, which include auto-cancellation, promo checking, subscription management, and billing alerts. Subscribr aims to bridge the gaps left by previous solutions by concentrating on user feedback and upholding the four main usability criteria: efficiency, navigation, customizability, and accessibility. 
 
